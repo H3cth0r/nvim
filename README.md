@@ -4,3 +4,6 @@
 - Install neovim.
 - Clone repository in root.
 - Open neovim. 
+
+## MacOs
+- brew install ripgrep
